@@ -1,0 +1,10 @@
+Hello
+Help
+Like
+More
+No
+Please
+Thank_you
+What
+Where
+Yes
